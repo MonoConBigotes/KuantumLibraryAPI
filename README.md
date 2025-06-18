@@ -1,6 +1,6 @@
 Project Three
 
-<pre lang="markdown">  KuantumLibraryApi/
+<pre lang="markdown">KuantumLibraryApi/
 ├── Controllers/
 │   └── DocumentsController.cs
 ├── Data/
@@ -22,4 +22,8 @@ Project Three
 │   └── DocumentUpdateValidator.cs
 ├── Program.cs
 ├── appsettings.json
-└── KuantumLibraryApi.csproj  </pre>
+└── KuantumLibraryApi.csproj</pre>
+
+
+[Instrucciones despliegue](KuantumLibraryAPI_Deployment_Guide.pdf)
+[Scripts creación de base de datos y carga de data de ejemplo](DOCUMENTACIÓN)
